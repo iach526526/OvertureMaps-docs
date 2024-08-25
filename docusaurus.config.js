@@ -6,7 +6,7 @@ const {themes} = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
-const defaultUrl = 'https://docs.overturemaps.org';
+// const defaultUrl = 'https://docs.overturemaps.org';
 const defaultBaseUrl = '/';
 
 function getFromEnvironment(variableName, defaultValue) {
