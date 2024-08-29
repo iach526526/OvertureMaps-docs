@@ -34,3 +34,8 @@ $ npm run start
 ```
 
 Now navigate to http://localhost:3000 to see the live preview.
+
+## demo
+![index-demo](index-en.png)
+
+![alt text](index-zh.png)
